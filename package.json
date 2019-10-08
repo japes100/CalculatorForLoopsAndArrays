@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "techsmiths trainign course",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "author": "JonP",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
